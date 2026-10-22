@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bizappu.co.zw/sitemap.xml
